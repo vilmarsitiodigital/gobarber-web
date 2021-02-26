@@ -9,24 +9,24 @@
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/badge/typescript-90.9%25-orange">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/gobarber-web?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/vilmarbatista/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-orange">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-1.33%20MB-orange">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vilmarsitiodigital/gobarber-web?color=%23FF9000">
 
   <a href="https://github.com/vilmarsitiodigital/gobarber-api/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-february%202021-orange">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilmarsitiodigital/gobarber-web?color=%23FF9000">
   </a>
 
   <a href="https://github.com/vilmarsitiodigital/gobarber-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/badge/issues-0%20open-orange">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/vilmarsitiodigital/gobarber-web?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/vilmarsitiodigital/gobarber-api/blob/main/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-orange">
+  <a href="https://github.com/vilmarsitiodigital/gobarber-web/blob/main/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/vilmarsitiodigital/gobarber-web?color=%23FF9000">
   </a>
 </p>
 
@@ -116,7 +116,7 @@ $ git clone your-fork-url && cd gobarber-web
 $ git checkout -b my-feature
 
 # Make the commit with your changes
-$ git commit -m 'feat: My new feature'
+$ git commit -m 'Feature: My new feature'
 
 # Send the code to your remote branch
 $ git push origin my-feature
